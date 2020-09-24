@@ -1,0 +1,14 @@
+The Working of the Program
+--------------------------
+
+The main idea here is to use 53 image controls in array with there tag set to the point each card holds and the card itself, it is hidden, if you extend the form in VB you will see it.
+
+
+The other cards, that is, the card which is drawn is shown to another set of image controls imgPlayer() and imgDealer()... they are drawn on the main frame itself but are put aside and are visible only during the program execution and whenever needed!!
+
+The other controls are ez to understand as soon as u understand what the game is all about, it is all based on conditional "if-then" checking and randomely selection of card. And above all giving the dealer, i.e. the opponent option to HIT is also neccessary. See the code to learn all about it!!
+
+http://ispro.netfirms.com
+zeeshan alam
+zeeshandj@yahoo.com
+------------==============-------------==============--------------============-----------
